@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="workout_schedule">Workout Schedule</string>
+    <string name="day">Day:</string>
+    <string name="exercise">Exercise:</string>
+    <string name="start">Start</string>
+    <string name="timer">Timer:</string>
+</resources>
